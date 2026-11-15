@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | **Live Web Application** | [earth-in-motion-nasa.base44.app](https://earth-in-motion-nasa.base44.app/) | Interactive NISAR telemetry and hazard exploration platform |
 | **30-Second Demo Video** | [https://youtu.be/mSTLJCOyCpY | Overview of orbital mechanics, radar physics, and case studies *(replace with YouTube/Drive URL)* |
-| **7-Slide Pitch Deck** | [View Presentation (PDF)](./docs/pitch-deck.pdf) | Executive summary, technical architecture, and scientific impact |
+| **7-Slide Pitch Deck** | [View Presentation (PDF)](./docs/Earth in Motion.pdf) | Executive summary, technical architecture, and scientific impact |
 
 ---
 
